@@ -69,7 +69,6 @@
       <DependentUpon>CRUDForm.cs</DependentUpon>
     </Compile>
     <Compile Include="FileFactory.cs" />
-    <Compile Include="Item.cs" />
     <Compile Include="Ammunition.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
